@@ -1,0 +1,1 @@
+function TimeTable = TimeTrace(Fbuffer,BattleFild)
